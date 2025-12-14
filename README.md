@@ -40,6 +40,7 @@ const ann = {
 
 ### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,7 +58,7 @@ const ann = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Currently Learning
+### DevOps
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -102,6 +103,7 @@ Learning:
   - Kubernetes: "Container orchestration magic"
   - Computer Networking: "Understanding the backbone of internet"
   - Golang: "Fast, simple, reliable programming"
+  - Rust: "Systems programming with memory safety"
   
 Side_Interests:
   - AI/ML: "Making machines smarter"
@@ -116,7 +118,6 @@ When I'm not coding, you'll find me:
 - 📖 **Reading voraciously** - Biology, Brain Science, History, Fiction, Math & Puzzles
 - 🔧 **Building automation tools** for daily tasks
 - 📝 **Taking detailed notes** - Knowledge is power!
-- 🏆 **Solving competitive programming** challenges
 - 🌱 **Learning something new** every single day
 
 ## 🎯 Fun Facts
@@ -135,17 +136,10 @@ When I'm not coding, you'll find me:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annmary-vinod)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annmaryvinod)
 
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=6C63FF&style=for-the-badge)
-  
-</div>
-
----
 
 <div align="center">
   
