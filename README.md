@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ann (Annmary)
+# Hi there! 👋 I'm Ann
 
 <div align="center">
   
