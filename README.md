@@ -14,9 +14,8 @@
 
 ```javascript
 const ann = {
-    location: "Wayanad, Kerala, India 🏞️",
-    currentFocus: "Building AI-powered applications that make life easier",
-    passion: ["Backend Development", "AI/ML", "Automation", "Problem Solving"],
+    currentFocus: "Learning, Building Stuff, Open source",
+    passion: ["Backend Development", "Build Scalable, Maintainable and Reliable robus systems", "AI/ML", "Automation", "Problem Solving"],
 };
 ```
 
